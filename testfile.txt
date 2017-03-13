@@ -1,1 +1,1 @@
-This is a test text file for Gitshubs
+This is my git hub learning session
